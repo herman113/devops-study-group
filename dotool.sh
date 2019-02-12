@@ -1,6 +1,6 @@
 dotool-help(){
   echo "
-  dotool version 18.12
+  dotool version 19.02
 
   dotool is as collection os Bash functions making 
   Digital Ocean's command line doctl tool easier to use.
